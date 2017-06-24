@@ -1,0 +1,16 @@
+node_modules
+test/tmp
+/temp
+
+# OS or Editor folders, extensions #
+.idea
+.cache
+.DS_Store
+.project
+.settings
+.log
+*.log
+*.exe
+*zip
+Thumbs.db
+*tmp*

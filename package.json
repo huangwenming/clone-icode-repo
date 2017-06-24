@@ -1,0 +1,35 @@
+{
+    "name": "clone-icode-repo",
+    "_from": "clone-icode-repo@latest",
+    "_id": "clone-icode-repo@1.0.0",
+    "version": "1.0.0",
+    "description": "pull code from icode just for baiduer",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "icode",
+        "clone",
+        "git"
+    ],
+    "author": "huangwenming",
+    "_npmUser": {
+        "email": "1205597228@qq.com",
+        "name": "huangwenming"
+    },
+    "_npmVersion": "0.0.1",
+    "homepage": "https://github.com/huangwenming/clone-icode-repo#readme",
+    "bugs": {
+        "url": "https://github.com/huangwenming/clone-icode-repo/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/huangwenming/clone-icode-repo.git"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "git-clone": "^0.1.0",
+        "rimraf": "^2.6.1"
+    }
+}
